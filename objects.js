@@ -1,6 +1,7 @@
 var playlist = {
   Beyonce: "Crazy in Love",
   Prince: "Purple Rain"
+}
 
 function updatePlaylist(playlist, artist, song) {
   playlist[artist] = song
